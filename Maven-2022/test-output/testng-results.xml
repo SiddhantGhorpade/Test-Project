@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T19:21:29 IST" name="Facebook Suite" finished-at="2022-09-17T19:25:32 IST" duration-ms="243585">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T19:21:29 IST" name="ChromeTest" finished-at="2022-09-17T19:24:17 IST" duration-ms="168141">
+      <class name="practiceTestNG.VerifyRoomPage">
+        <test-method is-config="true" signature="LounchBrowser(java.lang.String)[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:21:29 IST" name="LounchBrowser" finished-at="2022-09-17T19:21:55 IST" duration-ms="26829" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LounchBrowser -->
+        <test-method is-config="true" signature="createPOMobject()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:21:56 IST" name="createPOMobject" finished-at="2022-09-17T19:21:56 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject -->
+        <test-method is-config="true" signature="openRoomPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:21:56 IST" name="openRoomPage" finished-at="2022-09-17T19:22:42 IST" duration-ms="46049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openRoomPage -->
+        <test-method signature="A_verifyingGoBackToMessengerPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:22:42 IST" name="A_verifyingGoBackToMessengerPage" finished-at="2022-09-17T19:23:07 IST" duration-ms="24830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_verifyingGoBackToMessengerPage -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:07 IST" name="logOut" finished-at="2022-09-17T19:23:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="openRoomPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:07 IST" name="openRoomPage" finished-at="2022-09-17T19:23:45 IST" duration-ms="38048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openRoomPage -->
+        <test-method signature="B_verifyingVisitHelpCenterPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:45 IST" name="B_verifyingVisitHelpCenterPage" finished-at="2022-09-17T19:23:57 IST" duration-ms="12518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_verifyingVisitHelpCenterPage -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:57 IST" name="logOut" finished-at="2022-09-17T19:23:57 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="cleanPOMobject()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:57 IST" name="cleanPOMobject" finished-at="2022-09-17T19:23:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanPOMobject -->
+        <test-method is-config="true" signature="closeBrowesr()[pri:0, instance:practiceTestNG.VerifyRoomPage@2e005c4b]" started-at="2022-09-17T19:23:57 IST" name="closeBrowesr" finished-at="2022-09-17T19:24:17 IST" duration-ms="19329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowesr -->
+      </class> <!-- practiceTestNG.VerifyRoomPage -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2022-09-17T19:24:19 IST" name="FireFoxTest" finished-at="2022-09-17T19:25:32 IST" duration-ms="73425">
+      <class name="practiceTestNG.VerifyRoomPage">
+        <test-method is-config="true" signature="LounchBrowser(java.lang.String)[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:24:19 IST" name="LounchBrowser" finished-at="2022-09-17T19:24:47 IST" duration-ms="28490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LounchBrowser -->
+        <test-method is-config="true" signature="createPOMobject()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:24:47 IST" name="createPOMobject" finished-at="2022-09-17T19:24:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject -->
+        <test-method is-config="true" signature="openRoomPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:24:47 IST" name="openRoomPage" finished-at="2022-09-17T19:25:13 IST" duration-ms="25495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openRoomPage -->
+        <test-method signature="A_verifyingGoBackToMessengerPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:13 IST" name="A_verifyingGoBackToMessengerPage" finished-at="2022-09-17T19:25:19 IST" duration-ms="6083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_verifyingGoBackToMessengerPage -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:19 IST" name="logOut" finished-at="2022-09-17T19:25:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="openRoomPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:19 IST" name="openRoomPage" finished-at="2022-09-17T19:25:25 IST" duration-ms="6117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openRoomPage -->
+        <test-method signature="B_verifyingVisitHelpCenterPage()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:25 IST" name="B_verifyingVisitHelpCenterPage" finished-at="2022-09-17T19:25:27 IST" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_verifyingVisitHelpCenterPage -->
+        <test-method is-config="true" signature="cleanPOMobject()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:27 IST" name="cleanPOMobject" finished-at="2022-09-17T19:25:27 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanPOMobject -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:27 IST" name="logOut" finished-at="2022-09-17T19:25:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowesr()[pri:0, instance:practiceTestNG.VerifyRoomPage@67c27493]" started-at="2022-09-17T19:25:27 IST" name="closeBrowesr" finished-at="2022-09-17T19:25:32 IST" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowesr -->
+      </class> <!-- practiceTestNG.VerifyRoomPage -->
+    </test> <!-- FireFoxTest -->
+  </suite> <!-- Facebook Suite -->
+</testng-results>
