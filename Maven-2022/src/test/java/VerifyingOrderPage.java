@@ -91,10 +91,9 @@ public class VerifyingOrderPage
 		submit = new Bhel(driver);
 		submit.clickOnSubmit();
 		
-		confirm = new Bhel(driver);
-		confirm .clickOnConfirm();
+		
 	}
-	  @Test
+	 /* @Test
 	  public void verifyingModifyOrder()
 	  {	
 		modify = new Order(driver);
@@ -110,7 +109,7 @@ public class VerifyingOrderPage
 			{
 				System.out.println("Test_3 Fail");
 			}
-	  }
+	  }*/
 	  @Test
 	  public void toVerifyingCancelOrder()
 	  {
